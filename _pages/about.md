@@ -29,6 +29,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 # 🔥 News
 
+- *2025.04*: &nbsp;🎉🎉 I started my internship in MarsCode, Bytedance.（*筋斗云人才计划* ）
 - *2025.03*: &nbsp;🎉🎉 I served as Art Design Chair for **FSE'26**. 
 - *2025.01*: &nbsp;🎉🎉 I served as Program Committee for **FSE'25** industry track.
 - *2025.01*: &nbsp;🎉🎉 One first-authored paper was accepted by **ICLR'25**.
@@ -102,6 +103,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 # 💻 Internships
 
+- *2025.04 - 2025.09 (now)*, Bytedance MarsCode, researcher.
 - *2023.12 - 2024.09*, Microsoft DKI Team, researcher.
 - *2023.05 - 2023.09*, Huawei Cloud PaaS Lab, researcher.
 - *2021.06 - 2021.08*, Tencent IEG User Platform, engineer.
