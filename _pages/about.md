@@ -98,7 +98,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 *Conference*
 - Art Design Chair: FSE'26
-- Program Committee: FSE'25 (industry-track), ICSE'25 (shadow-PC)
+- Program Committee: ISSRE'26 (research-track), FSE'25 (industry-track), ICSE'25 (shadow-PC)
 - Artifact Evaluation Committee: ICSE'25, ISSRE'24
 
 # 💻 Internships
