@@ -23,13 +23,11 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 🔑 His objective is to provide non-trivial insights into AI models to address impactful challenges in real-world SE scenarios. He is trying hard to work toward this and hopes to conduct interesting yet meaningful research one day. 🫨
 
-😊 He is currently looking for *visiting* or *internship* opportunities. Feel free to reach out if you are interested and would like to discuss ideas or collaborate on research project.
-
 ***P.S.*** My name "Junjielong Xu" is written as "徐俊杰龙" in Chinese, and is pronounced like "Joon-jyeh-long Shoo."
 
 # 🔥 News
 
-- *2025.04*: &nbsp;🎉🎉 I started my internship in MarsCode, Bytedance.（*筋斗云人才计划* ）
+- *2025.04*: &nbsp;🎉🎉 I started my internship in Trae Research, Bytedance.（*筋斗云人才计划* ）
 - *2025.03*: &nbsp;🎉🎉 I served as Art Design Chair for **FSE'26**. 
 - *2025.01*: &nbsp;🎉🎉 I served as Program Committee for **FSE'25** industry track.
 - *2025.01*: &nbsp;🎉🎉 One first-authored paper was accepted by **ICLR'25**.
@@ -122,3 +120,8 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 - *2024.02* - CSC4001 Software Engineering
 - *2023.02* - CSC4001 Software Engineering
 - *2022.09* - CSC1003 Java Programming
+
+# 📉 Statistics
+
+- Highest stars for a repo: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/microsoft/OpenRCA">
+- Most rejections for a paper: <img alt="Static Badge" src="https://img.shields.io/badge/4_rejection-red">
