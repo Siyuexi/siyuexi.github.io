@@ -36,6 +36,15 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 # 📝 Publications 
 
+- &nbsp; <span class="badge">arXiv</span> &nbsp;**AL-Bench: A Benchmark for Automatic Logging**
+
+  <span style="font-size:13px;"> Boyin Tan, <strong><em>Junjielong Xu*</em></strong>, Zhouruixing Zhu, Pinjia He.</span>
+
+  <span style="font-size:14px;"> *arXiv prepreint*, 2025. </span>
+
+  [[paper](https://arxiv.org/pdf/2502.03160)]
+  [[code](https://github.com/shuaijiumei/logging-benchmark)]
+
 - &nbsp; <span class="badge">ICLR'25</span> &nbsp;**OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?**
 
   <span style="font-size:13px;"> <strong><em>Junjielong Xu</em></strong>, Qinan Zhang, Zhiqing Zhong, Shilin He, Chaoyun Zhang, Qingwei Lin, Dan Pei, Pinjia He, Dongmei Zhang, Qi Zhang.</span>
