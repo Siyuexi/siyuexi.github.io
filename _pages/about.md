@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ). His supervisor is [Prof. Pinjia He](https://pinjiahe.github.io). Currently, he is a visiting scholar in [AST Lab](https://ast.ethz.ch/), [ETH Zurich](https://ethz.ch/en.html), mentored by [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining CUHK-SZ, he received his BEng degree from the [School of Electronic Information and Communication](https://eic.hust.edu.cn/) at [Huazhong University of Science and Technology](https://hust.edu.cn/) (HUST) in 2022.
+Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ). His supervisor is [Pinjia He](https://pinjiahe.github.io). Currently, he is a visiting scholar in [AST Lab](https://ast.ethz.ch/), [ETH Zurich](https://ethz.ch/en.html), mentored by [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining CUHK-SZ, he received his BEng degree from the [School of Electronic Information and Communication](https://eic.hust.edu.cn/) at [Huazhong University of Science and Technology](https://hust.edu.cn/) (HUST) in 2022.
 
 🔎 His research focuses on LLM-based DevOps automation for enhancing reliability of code and services. He is also interested in recent LLM research topics such as scalable oversight, reinforcement learning, and test-time scaling.
 
