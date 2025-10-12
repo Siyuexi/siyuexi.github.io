@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ). His supervisor is [Prof. Pinjia He](https://pinjiahe.github.io). Before joining CUHK-SZ, he received his BEng degree from the [School of Electronic Information and Communication](https://eic.hust.edu.cn/) at [Huazhong University of Science and Technology](https://hust.edu.cn/) (HUST) in 2022.
+Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ). His supervisor is [Prof. Pinjia He](https://pinjiahe.github.io). Currently, he is a visiting scholar in [AST Lab](https://ast.ethz.ch/), [ETH Zurich](https://ethz.ch/en.html), mentored by [Zhendong Su](https://people.inf.ethz.ch/suz/). Before joining CUHK-SZ, he received his BEng degree from the [School of Electronic Information and Communication](https://eic.hust.edu.cn/) at [Huazhong University of Science and Technology](https://hust.edu.cn/) (HUST) in 2022.
 
-🔎 His research focuses on LLM-based DevOps automation for enhancing reliability of code and services, particularly in the areas of (1) logging and root cause analysis (RCA) (2) debugging and automated program repair (APR). He is also interested in recent LLM research topics such as scalable oversight and test-time scaling.
+🔎 His research focuses on LLM-based DevOps automation for enhancing reliability of code and services. He is also interested in recent LLM research topics such as scalable oversight, reinforcement learning, and test-time scaling.
 
 🔑 His objective is to provide non-trivial insights into AI models to address impactful challenges in real-world SE scenarios. He is trying hard to work toward this and hopes to conduct interesting yet meaningful research one day. 🫨
 
@@ -27,7 +27,9 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 # 🔥 News
 
-- *2025.04*: &nbsp;🎉🎉 I started my internship in Trae Research, Bytedance.（*筋斗云人才计划* ）
+- *2025.10*: &nbsp;🎉🎉 I started my research visit in AST Lab, ETH Zurich.
+- *2025.09*: &nbsp;🎉🎉 One collaborative paper with ByteDance was accepted by **NeurIPS'25** (*Spotlight*).
+- *2025.04*: &nbsp;🎉🎉 I started my internship in Trae Research, ByteDance.（*筋斗云人才计划* ）
 - *2025.03*: &nbsp;🎉🎉 I served as Art Design Chair for **FSE'26**. 
 - *2025.01*: &nbsp;🎉🎉 I served as Program Committee for **FSE'25** industry track.
 - *2025.01*: &nbsp;🎉🎉 One first-authored paper was accepted by **ICLR'25**.
@@ -44,6 +46,15 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
   [[paper](https://arxiv.org/pdf/2502.03160)]
   [[code](https://github.com/shuaijiumei/logging-benchmark)]
+
+- &nbsp; <span class="badge">NeurIPS'25</span> &nbsp;**Repo2Run: Automated Building Executable Environment for Code Repository at Scale**
+
+  <span style="font-size:13px;"> Ruida Hu, Chao Peng, XinchenWang, Junjielong Xu, Cuiyun Gao </span>
+
+  <span style="font-size:14px;"> *Annual Conference on Neural Information Processing Systems*, San Diego, Dec 2025. </span>
+
+  [[paper](https://openreview.net/pdf?id=fZsd3KLMje)]
+  [[code](https://github.com/bytedance/Repo2Run)]
 
 - &nbsp; <span class="badge">ICLR'25</span> &nbsp;**OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?**
 
@@ -107,17 +118,19 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 - Art Design Chair: FSE'26
 - Program Committee: ISSRE'26 (research-track), FSE'25 (industry-track), ICSE'25 (shadow-PC)
 - Artifact Evaluation Committee: ICSE'25, ISSRE'24
+- Reviewer: ICLR'26
 
 # 💻 Internships
 
-- *2025.04 - 2025.09 (now)*, Bytedance Trae IDE, researcher.
+- *2025.04 - (now)*, ByteDance Trae IDE, researcher.
 - *2023.12 - 2024.09*, Microsoft DKI Team, researcher.
 - *2023.05 - 2023.09*, Huawei Cloud PaaS Lab, researcher.
 - *2021.06 - 2021.08*, Tencent IEG User Platform, engineer.
 
 # 📖 Educations
 
-- *2022.09 - 2026.06 (now)*, Ph.D. in Computer Science, The Chinese University of Hong Kong, Shenzhen. 
+- *2025.10 - (now)*, Academic guest in AST Lab, ETH Zurich.
+- *2022.09 - (now)*, Ph.D. in Computer Science, The Chinese University of Hong Kong, Shenzhen. 
 - *2018.09 - 2022.06*, B.Eng. in Electronic Information Engineering, Huazhong University of Science and Technology.
 
 # 📐 Teaching
