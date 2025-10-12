@@ -40,7 +40,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 - &nbsp; <span class="badge">arXiv</span> &nbsp;**AL-Bench: A Benchmark for Automatic Logging**
 
-  <span style="font-size:13px;"> Boyin Tan, <strong><em>Junjielong Xu*</em></strong>, Zhouruixing Zhu, Pinjia He.</span>
+  <span style="font-size:13px;"> Boyin Tan, Junjielong Xu*, Zhouruixing Zhu, Pinjia He.</span>
 
   <span style="font-size:14px;"> *arXiv prepreint*, 2025. </span>
 
@@ -58,7 +58,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 - &nbsp; <span class="badge">ICLR'25</span> &nbsp;**OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?**
 
-  <span style="font-size:13px;"> <strong><em>Junjielong Xu</em></strong>, Qinan Zhang, Zhiqing Zhong, Shilin He, Chaoyun Zhang, Qingwei Lin, Dan Pei, Pinjia He, Dongmei Zhang, Qi Zhang.</span>
+  <span style="font-size:13px;"> <em>Junjielong Xu</em>, Qinan Zhang, Zhiqing Zhong, Shilin He, Chaoyun Zhang, Qingwei Lin, Dan Pei, Pinjia He, Dongmei Zhang, Qi Zhang.</span>
 
   <span style="font-size:14px;"> *International Conference on Learning Representations*, Singapore, April 2025. </span>
 
@@ -67,7 +67,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 - &nbsp; <span class="badge">ICSE'25</span> &nbsp;**Aligning the Objective of LLM-based Program Repair**
 
-  <span style="font-size:13px;"> <strong><em>Junjielong Xu</em></strong>, Ying Fu, Shin Hwei Tan, Pinjia He.</span>
+  <span style="font-size:13px;"> <em>Junjielong Xu</em>, Ying Fu, Shin Hwei Tan, Pinjia He.</span>
 
   <span style="font-size:14px;"> *International Conference on Software Engineering*, Ottawa, April 2025. </span>
 
@@ -76,7 +76,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 - &nbsp; <span class="badge">ICSE'24</span> &nbsp;**DivLog: Log Parsing with Prompt Enhanced In-Context Learning**
 
-  <span style="font-size:13px;"> <strong><em>Junjielong Xu</em></strong>, Ruichun Yang, Yintong Huo, Chengyu Zhang, Pinjia He.</span>
+  <span style="font-size:13px;"> <em>Junjielong Xu</em>, Ruichun Yang, Yintong Huo, Chengyu Zhang, Pinjia He.</span>
 
   <span style="font-size:14px;"> *International Conference on Software Engineering*, Lisbon, April 2024. </span>
 
@@ -85,7 +85,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 - &nbsp; <span class="badge">ICSE'24</span> &nbsp;**UniLog: Automatic Logging via LLM and In-Context Learning**
 
-  <span style="font-size:13px;"> <strong><em>Junjielong Xu</em></strong>, Ziang Cui, Yuan Zhao, Xu Zhang, Shilin He, Pinjia He, Liqun Li, Yu Kang, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, Dongmei Zhang</span>
+  <span style="font-size:13px;"> <em>Junjielong Xu</em>, Ziang Cui, Yuan Zhao, Xu Zhang, Shilin He, Pinjia He, Liqun Li, Yu Kang, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, Dongmei Zhang</span>
 
   <span style="font-size:14px;"> *International Conference on Software Engineering*, Lisbon, April 2024. </span>
 
@@ -94,7 +94,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 - &nbsp; <span class="badge">FSE'23</span> &nbsp;**Hue: A User-Adaptive Parser for Hybrid Logs**
 
-  <span style="font-size:13px;"> <strong><em>Junjielong Xu</em></strong>, Qiuai Fu, Zhouruixing Zhu, Yutong Cheng, Zhijing Li, Yuchi Ma, Pinjia He.</span>
+  <span style="font-size:13px;"> <em>Junjielong Xu</em>, Qiuai Fu, Zhouruixing Zhu, Yutong Cheng, Zhijing Li, Yuchi Ma, Pinjia He.</span>
 
   <span style="font-size:14px;"> *International Conference on the Foundations of Software Engineering*, San Francisco, December 2023. </span>
 
