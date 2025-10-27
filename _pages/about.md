@@ -112,7 +112,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 # 💬 Service
 
 *Journal*
-- Reviewer, [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), [TOSEM](https://dl.acm.org/journal/tosem)
+- Reviewer, [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), [TOSEM](https://dl.acm.org/journal/tosem), [ESE](https://link.springer.com/journal/10664)
 
 *Conference*
 - Art Design Chair: FSE'26
