@@ -23,10 +23,11 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 🔑 His objective is to provide non-trivial insights into AI models to address impactful challenges in real-world SE scenarios. He is trying hard to work toward this and hopes to conduct interesting yet meaningful research one day. 🫨
 
-***P.S.*** My name "Junjielong Xu" is written as "徐俊杰龙" in Chinese, and is pronounced like "Joon-jyeh-long Shoo."
+***P.S.*** My name "Junjielong Xu" is written as "徐俊杰龙" in Chinese, and is pronounced like "Joon-jyeh-long Shoo." ("Long" for short.)
 
 # 🔥 News
 
+- *2025.11*: &nbsp;🎉🎉 I joined the TOSEM Review Committee for the next 2 years.
 - *2025.10*: &nbsp;🎉🎉 I started my research visit in AST Lab, ETH Zurich.
 - *2025.09*: &nbsp;🎉🎉 One collaborative paper with ByteDance was accepted by **NeurIPS'25** (*Spotlight*).
 - *2025.04*: &nbsp;🎉🎉 I started my internship in Trae Research, ByteDance.（*筋斗云人才计划* ）
@@ -112,7 +113,8 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 # 💬 Service
 
 *Journal*
-- Reviewer, [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), [TOSEM](https://dl.acm.org/journal/tosem), [ESE](https://link.springer.com/journal/10664)
+- Review Committee: [TOSEM](https://dl.acm.org/journal/tosem/editorial-board#review-committee-)
+- Reviewer: [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), [ESE](https://link.springer.com/journal/10664)
 
 *Conference*
 - Art Design Chair: FSE'26
