@@ -27,7 +27,6 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 # 🔥 News
 
-- *2025.11*: &nbsp;🎉🎉 I joined the TOSEM Review Committee for the next 2 years.
 - *2025.10*: &nbsp;🎉🎉 I started my research visit in AST Lab, ETH Zurich.
 - *2025.09*: &nbsp;🎉🎉 One collaborative paper with ByteDance was accepted by **NeurIPS'25** (*Spotlight*).
 - *2025.04*: &nbsp;🎉🎉 I started my internship in Trae Research, ByteDance.（*筋斗云人才计划* ）
@@ -38,15 +37,6 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 - *2024.03*: &nbsp;🎉🎉 I served as Shadow Program Committee for **ICSE'25**.
 
 # 📝 Publications 
-
-- &nbsp; <span class="badge">arXiv</span> &nbsp;**AL-Bench: A Benchmark for Automatic Logging**
-
-  <span style="font-size:13px;"> Boyin Tan, Junjielong Xu*, Zhouruixing Zhu, Pinjia He.</span>
-
-  <span style="font-size:14px;"> *arXiv prepreint*, 2025. </span>
-
-  [[paper](https://arxiv.org/pdf/2502.03160)]
-  [[code](https://github.com/shuaijiumei/logging-benchmark)]
 
 - &nbsp; <span class="badge">NeurIPS'25</span> &nbsp;**Repo2Run: Automated Building Executable Environment for Code Repository at Scale**
 
@@ -113,8 +103,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 # 💬 Service
 
 *Journal*
-- Review Committee: [TOSEM](https://dl.acm.org/journal/tosem/editorial-board#review-committee-)
-- Reviewer: [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), [ESE](https://link.springer.com/journal/10664)
+- Reviewer: [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), [TOSEM](https://dl.acm.org/journal/tosem), [ESE](https://link.springer.com/journal/10664)
 
 *Conference*
 - Art Design Chair: FSE'26
