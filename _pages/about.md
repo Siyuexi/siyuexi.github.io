@@ -27,8 +27,9 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 # 🔥 News
 
+- *2025.12*  &nbsp;🎉🎉 One paper was accepted by **FSE'26**.
 - *2025.10*: &nbsp;🎉🎉 I started my research visit in AST Lab, ETH Zurich.
-- *2025.09*: &nbsp;🎉🎉 One collaborative paper with ByteDance was accepted by **NeurIPS'25** (*Spotlight*).
+- *2025.09*: &nbsp;🎉🎉 One paper was accepted by **NeurIPS'25** (*Spotlight*).
 - *2025.04*: &nbsp;🎉🎉 I started my internship in Trae Research, ByteDance.（*筋斗云人才计划* ）
 - *2025.03*: &nbsp;🎉🎉 I served as Art Design Chair for **FSE'26**. 
 - *2025.01*: &nbsp;🎉🎉 I served as Program Committee for **FSE'25** industry track.
@@ -38,9 +39,17 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 # 📝 Publications 
 
+- &nbsp; <span class="badge">FSE'26</span> &nbsp;**Rethinking the Evaluation of Microservice RCA with a Fault Propagation-Aware Benchmark**
+
+  <span style="font-size:13px;"> Aoyang Fang, Songhan Zhang, Yifan Yang, Haotong Wu, Junjielong Xu, Xuyang Wang, Rui Wang, Manyi Wang, Qisheng Lu, Pinjia He </span>
+
+  <span style="font-size:14px;"> *International Conference on the Foundations of Software Engineering*, Montreal, July 2026. </span>
+
+  [[paper](https://arxiv.org/pdf/2510.04711)]
+
 - &nbsp; <span class="badge">NeurIPS'25</span> &nbsp;**Repo2Run: Automated Building Executable Environment for Code Repository at Scale**
 
-  <span style="font-size:13px;"> Ruida Hu, Chao Peng, XinchenWang, Junjielong Xu, Cuiyun Gao </span>
+  <span style="font-size:13px;"> Ruida Hu, Chao Peng, Xinchen Wang, Junjielong Xu, Cuiyun Gao </span>
 
   <span style="font-size:14px;"> *Annual Conference on Neural Information Processing Systems*, San Diego, Dec 2025. </span>
 
@@ -95,6 +104,7 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 # 🎖 Honors and Awards
 
+- *2025.11* 🥉3rd Prize, CCF ChinaSoft Prototype Software System Challenge
 - *2024.04* 💰Duan Yong Ping Travel Award, CUHK-Shenzhen (¥10,000)
 - *2023.12* 🥉3rd Prize, CCF International AIOps Challenge (Ranked 🏅1st among student teams)
 - *2020.10* 🏅1st Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM) (🤺Leader)
