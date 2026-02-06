@@ -27,7 +27,8 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 # 🔥 News
 
-- *2025.12*  &nbsp;🎉🎉 One paper was accepted by **FSE'26**.
+- *2026.02*: &nbsp;🎉🎉 OpenRCA was officially adopted in **Anthropic Claude Opus 4.6** [model card](https://www.anthropic.com/claude-opus-4-6-system-card).
+- *2025.12*: &nbsp;🎉🎉 One paper was accepted by **FSE'26**.
 - *2025.10*: &nbsp;🎉🎉 I started my research visit in AST Lab, ETH Zurich.
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by **NeurIPS'25** (*Spotlight*).
 - *2025.04*: &nbsp;🎉🎉 I started my internship in Trae Research, ByteDance.（*筋斗云人才计划* ）
