@@ -27,16 +27,13 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 
 # 🔥 News
 
+- *2026.04*: &nbsp;🎉🎉 I started my full-time job in HY, Tencent.（*青云计划* ）
 - *2026.02*: &nbsp;🎉🎉 OpenRCA was officially adopted by **[Anthropic Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)**.
 - *2025.12*: &nbsp;🎉🎉 One paper was accepted by **FSE'26**.
 - *2025.10*: &nbsp;🎉🎉 I started my research visit in AST Lab, ETH Zurich.
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by **NeurIPS'25** (*Spotlight*).
-- *2025.04*: &nbsp;🎉🎉 I started my internship in Trae Research, ByteDance.（*筋斗云人才计划* ）
+- *2025.04*: &nbsp;🎉🎉 I started my internship in TRAE, ByteDance.（*筋斗云人才计划* ）
 - *2025.03*: &nbsp;🎉🎉 I served as Art Design Chair for **FSE'26**. 
-- *2025.01*: &nbsp;🎉🎉 I served as Program Committee for **FSE'25** industry track.
-- *2025.01*: &nbsp;🎉🎉 One first-authored paper was accepted by **ICLR'25**.
-- *2024.10*: &nbsp;🎉🎉 One first-authored paper was accepted by **ICSE'25**.
-- *2024.03*: &nbsp;🎉🎉 I served as Shadow Program Committee for **ICSE'25**.
 
 # 📝 Publications 
 
@@ -122,12 +119,18 @@ Junjielong Xu is a Ph.D. candidate of Computer Science in the [School of Data Sc
 - Artifact Evaluation Committee: ICSE'25, ISSRE'24
 - Reviewer: ICLR'26
 
-# 💻 Internships
+# 💻 Experience
 
-- *2025.04 - (now)*, ByteDance Trae IDE, researcher.
-- *2023.12 - 2024.09*, Microsoft DKI Team, researcher.
-- *2023.05 - 2023.09*, Huawei Cloud PaaS Lab, researcher.
-- *2021.06 - 2021.08*, Tencent IEG User Platform, engineer.
+Full-time:
+
+- *2026.04 - (now)*, Tencent HY, researcher.
+
+Intern:
+
+- *2025.04 - 2026.04*, ByteDance TRAE, researcher.
+- *2023.12 - 2024.09*, Microsoft DKI, researcher.
+- *2023.05 - 2023.09*, Huawei Cloud, researcher.
+- *2021.06 - 2021.08*, Tencent IEG, engineer.
 
 # 📖 Educations
 
