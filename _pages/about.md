@@ -27,16 +27,26 @@ Junjielong Xu is a Ph.D. of Computer Science in the [School of Data Science](htt
 
 # 🔥 News
 
+- *2026.06*: &nbsp;🎉🎉 A corresponding-author was accepted by **TOSEM**
 - *2026.05*: &nbsp;🎉🎉 I received my Ph.D. degree.
 - *2026.04*: &nbsp;🎉🎉 I started my full-time job in HY, Tencent.（*青云计划* ）
 - *2026.02*: &nbsp;🎉🎉 OpenRCA was officially adopted by **[Anthropic Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)**.
-- *2025.12*: &nbsp;🎉🎉 One paper was accepted by **FSE'26**.
+- *2025.12*: &nbsp;🎉🎉 A paper was accepted by **FSE'26**.
 - *2025.10*: &nbsp;🎉🎉 I started my research visit in AST Lab, ETH Zurich.
-- *2025.09*: &nbsp;🎉🎉 One paper was accepted by **NeurIPS'25** (*Spotlight*).
+- *2025.09*: &nbsp;🎉🎉 A paper was accepted by **NeurIPS'25** (*Spotlight*).
 - *2025.04*: &nbsp;🎉🎉 I started my internship in TRAE, ByteDance.（*筋斗云人才计划* ）
 - *2025.03*: &nbsp;🎉🎉 I served as Art Design Chair for **FSE'26**. 
 
 # 📝 Publications 
+
+- &nbsp; <span class="badge">arXiv</span> &nbsp;**AL-Bench: A Benchmark for Automatic Logging**
+
+  <span style="font-size:13px;"> Boyin Tan, Junjielong Xu*, Zhouruixing Zhu, Pinjia He </span>
+
+  <span style="font-size:14px;"> *arXiv preprint arXiv:2502.03160*, 2025. </span>
+
+  [[paper](https://arxiv.org/pdf/2502.03160)]
+
 
 - &nbsp; <span class="badge">FSE'26</span> &nbsp;**Rethinking the Evaluation of Microservice RCA with a Fault Propagation-Aware Benchmark**
 
