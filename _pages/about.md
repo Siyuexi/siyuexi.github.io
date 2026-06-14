@@ -27,7 +27,7 @@ Junjielong Xu is a Ph.D. of Computer Science in the [School of Data Science](htt
 
 # 🔥 News
 
-- *2026.06*: &nbsp;🎉🎉 A corresponding-author was accepted by **TOSEM**
+- *2026.06*: &nbsp;🎉🎉 A corresponding-author paper was accepted by **TOSEM**
 - *2026.05*: &nbsp;🎉🎉 I received my Ph.D. degree.
 - *2026.04*: &nbsp;🎉🎉 I started my full-time job in HY, Tencent.（*青云计划* ）
 - *2026.02*: &nbsp;🎉🎉 OpenRCA was officially adopted by **[Anthropic Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)**.
