@@ -43,7 +43,7 @@ Junjielong Xu is a Ph.D. of Computer Science in the [School of Data Science](htt
 
   <span style="font-size:13px;"> Boyin Tan, Junjielong Xu*, Zhouruixing Zhu, Pinjia He </span>
 
-  <span style="font-size:14px;"> *ACM Transactions on Software Engineering and Methodology*, 2025. </span>
+  <span style="font-size:14px;"> *ACM Transactions on Software Engineering and Methodology*, 2026. </span>
 
   [[paper](https://arxiv.org/pdf/2502.03160)]
 
