@@ -39,11 +39,11 @@ Junjielong Xu is a Ph.D. of Computer Science in the [School of Data Science](htt
 
 # 📝 Publications 
 
-- &nbsp; <span class="badge">arXiv</span> &nbsp;**AL-Bench: A Benchmark for Automatic Logging**
+- &nbsp; <span class="badge">TOSEM</span> &nbsp;**AL-Bench: A Benchmark for Automatic Logging**
 
   <span style="font-size:13px;"> Boyin Tan, Junjielong Xu*, Zhouruixing Zhu, Pinjia He </span>
 
-  <span style="font-size:14px;"> *arXiv preprint arXiv:2502.03160*, 2025. </span>
+  <span style="font-size:14px;"> *ACM Transactions on Software Engineering and Methodology*, 2025. </span>
 
   [[paper](https://arxiv.org/pdf/2502.03160)]
 
