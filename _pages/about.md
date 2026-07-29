@@ -27,6 +27,7 @@ Junjielong Xu is a Ph.D. of Computer Science in the [School of Data Science](htt
 
 # 🔥 News
 
+- *2026.07*: &nbsp;🎉🎉 A corresponding-author paper was accepted by **ASE'26**
 - *2026.06*: &nbsp;🎉🎉 A corresponding-author paper was accepted by **TOSEM**
 - *2026.05*: &nbsp;🎉🎉 I received my Ph.D. degree.
 - *2026.04*: &nbsp;🎉🎉 I started my full-time job in HY, Tencent.（*青云计划* ）
@@ -38,6 +39,12 @@ Junjielong Xu is a Ph.D. of Computer Science in the [School of Data Science](htt
 - *2025.03*: &nbsp;🎉🎉 I served as Art Design Chair for **FSE'26**. 
 
 # 📝 Publications 
+
+- &nbsp; <span class="badge">ASE'26</span> &nbsp;**PaiChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks**
+
+  <span style="font-size:13px;"> Manyi Wang, Junjielong Xu*, Pinjia He </span>
+
+  <span style="font-size:14px;"> *IEEE/ACM International Conference on Automated Software Engineering*, 2026. </span>
 
 - &nbsp; <span class="badge">TOSEM</span> &nbsp;**AL-Bench: A Benchmark for Automatic Logging**
 
