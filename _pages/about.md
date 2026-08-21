@@ -43,7 +43,7 @@ Junjielong Xu is a Ph.D. of Computer Science in the [School of Data Science](htt
 
 - &nbsp; <span class="badge">EMNLP'26</span> &nbsp;**Scalable Supervision for Software Agents via Patch Reasoning**
 
-  <span style="font-size:13px;"> Manyi Wang, Junjielong Xu*, Pinjia He </span>
+  <span style="font-size:13px;"> Junjielong Xu, Boyin Tan, Xiaoyuan Liu, Chao Peng, Pengfei Gao, Pinjia He  </span>
 
   <span style="font-size:14px;"> Findings, *The Conference on Empirical Methods in Natural Language Processing*, 2026. </span>
 
