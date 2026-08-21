@@ -27,6 +27,7 @@ Junjielong Xu is a Ph.D. of Computer Science in the [School of Data Science](htt
 
 # 🔥 News
 
+- *2026.07*: &nbsp;🎉🎉 A first-author paper was accepted by **EMNLP'26**
 - *2026.07*: &nbsp;🎉🎉 A corresponding-author paper was accepted by **ASE'26**
 - *2026.06*: &nbsp;🎉🎉 A corresponding-author paper was accepted by **TOSEM**
 - *2026.05*: &nbsp;🎉🎉 I received my Ph.D. degree.
@@ -39,6 +40,12 @@ Junjielong Xu is a Ph.D. of Computer Science in the [School of Data Science](htt
 - *2025.03*: &nbsp;🎉🎉 I served as Art Design Chair for **FSE'26**. 
 
 # 📝 Publications 
+
+- &nbsp; <span class="badge">EMNLP'26</span> &nbsp;**Scalable Supervision for Software Agents via Patch Reasoning**
+
+  <span style="font-size:13px;"> Manyi Wang, Junjielong Xu*, Pinjia He </span>
+
+  <span style="font-size:14px;"> Findings, *The Conference on Empirical Methods in Natural Language Processing*, 2026. </span>
 
 - &nbsp; <span class="badge">ASE'26</span> &nbsp;**PaiChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks**
 
