@@ -41,21 +41,27 @@ Junjielong Xu is a Ph.D. of Computer Science in the [School of Data Science](htt
 
 # 📝 Publications 
 
+- &nbsp; <span class="badge">arXiv</span> &nbsp;**CodeLift: Your Test Suite Is Secretly a Dense SWE Curriculum**
+
+  <span style="font-size:13px;"> <em>Junjielong Xu</em>, Huachao Zhu, Alyssa Wu, Zhichao Hu, Pinjia He  </span>
+
+  <span style="font-size:14px;"> [Preprint](https://arxiv.org/abs/2610.17224). </span>
+
 - &nbsp; <span class="badge">EMNLP'26</span> &nbsp;**Scalable Supervision for Software Agents via Patch Reasoning**
 
-  <span style="font-size:13px;"> Junjielong Xu, Boyin Tan, Xiaoyuan Liu, Chao Peng, Pengfei Gao, Pinjia He  </span>
+  <span style="font-size:13px;"> <em>Junjielong Xu</em>, Boyin Tan, Xiaoyuan Liu, Chao Peng, Pengfei Gao, Pinjia He  </span>
 
   <span style="font-size:14px;"> Findings, *The Conference on Empirical Methods in Natural Language Processing*, 2026. </span>
 
 - &nbsp; <span class="badge">ASE'26</span> &nbsp;**PaiChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks**
 
-  <span style="font-size:13px;"> Manyi Wang, Junjielong Xu*, Pinjia He </span>
+  <span style="font-size:13px;"> Manyi Wang, <em>Junjielong Xu</em>*, Pinjia He </span>
 
   <span style="font-size:14px;"> *IEEE/ACM International Conference on Automated Software Engineering*, 2026. </span>
 
 - &nbsp; <span class="badge">TOSEM</span> &nbsp;**AL-Bench: A Benchmark for Automatic Logging**
 
-  <span style="font-size:13px;"> Boyin Tan, Junjielong Xu*, Zhouruixing Zhu, Pinjia He </span>
+  <span style="font-size:13px;"> Boyin Tan, <em>Junjielong Xu</em>*, Zhouruixing Zhu, Pinjia He </span>
 
   <span style="font-size:14px;"> *ACM Transactions on Software Engineering and Methodology*, 2026. </span>
 
