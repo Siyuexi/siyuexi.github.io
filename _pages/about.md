@@ -27,6 +27,7 @@ Junjielong Xu is a Ph.D. of Computer Science in the [School of Data Science](htt
 
 # 🔥 News
 
+- *2026.11*: &nbsp;🎉🎉 Goal2Repo was officially adopted by **[Tencent Hy4](https://hy.tencent.ai/research/hy4?langVersion=en)**.
 - *2026.07*: &nbsp;🎉🎉 A first-author paper was accepted by **EMNLP'26**
 - *2026.07*: &nbsp;🎉🎉 A corresponding-author paper was accepted by **ASE'26**
 - *2026.06*: &nbsp;🎉🎉 A corresponding-author paper was accepted by **TOSEM**
